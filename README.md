@@ -1,6 +1,6 @@
 # Hawk's Complete Sound Pack
 
-Release hosting for BeardLib automatic updates.
+Hawk is the original creator and author of Hawk's Complete Sound Pack. This GitHub repository is only being used to host BeardLib-compatible releases and automatic updates, with ModWorkshop remaining the main project page. I am only assisting with compatibility work, fixes, update integration, and maintenance, and I do not claim ownership of Hawk's original sound work. Full credit for the original sound pack and its content belongs to Hawk.
 
 
 # About This Sound Pack
