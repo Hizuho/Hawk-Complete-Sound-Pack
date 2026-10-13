@@ -77,20 +77,6 @@ Please use the Steam discussion thread instead:
 
 https://steamcommunity.com/app/218620/discussions/15/617330227200108135/?ctp=87
 
-# Download Issues
-
-Some users have reported being unable to download the pack.
-
-Unfortunately, I have no control over this. If you experience download problems, I recommend contacting or messaging the site administrators to determine whether there is an issue on their end.
-
-This problem only started becoming widespread relatively recently, which makes me believe that it may be related to the website itself.
-
-# Player Impact Sounds
-
-For users asking me to create a **second pack specifically to undo my changes to the player impact sounds**, please refer to page 17 of the Steam discussion thread, or page 33 depending on your forum display settings.
-
-The explanation there covers why I will not be creating a separate pack for this purpose.
-
 # Identifying Updated Files
 
 If you are unsure which files have been added or changed, check the **Date Modified** information inside the archive.
